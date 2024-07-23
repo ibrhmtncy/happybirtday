@@ -1,0 +1,141 @@
+body {
+    background-color: rgba(0, 0, 255, 0.233);
+  }
+  h1 {
+    text-transform: uppercase;
+    font-size: 2rem;
+  }
+  
+  .poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 40px;
+    color: white;
+    font-family: "Kalnia Glaze", serif;
+    text-align: center;
+  }
+  
+  .motivation-img {
+    border: 10px solid lightblue;
+    width: 100%;
+  }
+
+  h2 {font-family:'Times New Roman', Times, serif;
+    color: yellow;
+    text-align: center}
+
+.giris {text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+font-weight: bold;}
+
+#a1 {border: 10px solid lightblue;
+    width: 100%;}
+#a2 {border: 10px solid lightblue;
+    width: 100%;}
+#a3 {border: 10px solid lightblue;
+    width: 100%;}
+#a4 {border: 10px solid lightblue;
+    width: 100%;}
+#a5 {border: 10px solid lightblue;
+    width: 100%;}
+#a6 {border: 10px solid lightblue;
+    width: 100%;}
+#a7 {border: 10px solid lightblue;
+    width: 100%;}
+#a8 {border: 10px solid lightblue;
+    width: 100%;}
+#a9 {border: 10px solid lightblue;
+    width: 100%;}
+#a10 {border: 10px solid lightblue;
+    width: 100%;}
+
+.aa1 {width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;}
+
+.aa2 {width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;}
+
+.aa3 {width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;}
+
+.aa4 {width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;}
+
+.aa5 {width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;}
+
+.aa6 {width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;}
+
+.aa7 {width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;}
+
+.aa8 {width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;}
+
+.aa9 {width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;}
+
+.aa10 {width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;}
+
+#ilkaciklama {text-align: center;
+font-size: large;
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;}
+
+#ikinciaciklama {text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;}
+
+#ucuncuaciklama {text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;}
+
+#dorduncuaciklama {text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;}
+
+#besinciaciklama {text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;}
+
+#altinciaciklama {text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;}
+
+#yedinciaciklama {text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;}
+    
+#sekizinciaciklama {text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;}
+
+#ucbucuk {text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;}
+
+#iyiki {text-align: center;
+font-size: 50px;
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;}
